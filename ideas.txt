@@ -1,4 +1,4 @@
 Learn add
 Learn commit
-Learn branches
+Learn branches deeply
 Learn branching
