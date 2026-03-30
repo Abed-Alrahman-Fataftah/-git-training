@@ -1,2 +1,3 @@
 Git practice day 1
 I want to understand git deeply.
+Git staging area makes sense now.
